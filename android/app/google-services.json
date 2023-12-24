@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "150600623441",
+    "project_id": "flick-radio-ee184",
+    "storage_bucket": "flick-radio-ee184.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150600623441:android:c5599eb916474377801f70",
+        "android_client_info": {
+          "package_name": "com.dirtek.flick_radio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150600623441-966fa95pmb15ri42ops1vj8hbmucnvdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4Bnkp3MrZIWuNDQe3kSLJKaNJKlMgJMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150600623441-966fa95pmb15ri42ops1vj8hbmucnvdl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150600623441:android:aaa2bb559da40fd0801f70",
+        "android_client_info": {
+          "package_name": "com.example.flick_admin_panel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150600623441-966fa95pmb15ri42ops1vj8hbmucnvdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4Bnkp3MrZIWuNDQe3kSLJKaNJKlMgJMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150600623441-966fa95pmb15ri42ops1vj8hbmucnvdl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
